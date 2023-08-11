@@ -7,11 +7,11 @@ conocimientos sólidos en:
 
 > Full Stack 
 
-| Frontend | Backend | Database | Ofimatic | 
-| ---------| ------- | -------- | -------- |
-| :large_orange_diamond: _HTML5_ | :large_orange_diamond: _ASP .Net_ | :large_orange_diamond: _SQL Server_  | :large_orange_diamond: _MS Word_ |
-| :large_orange_diamond: _CSS3_ | :large_orange_diamond: _.Net Framework_ | :large_orange_diamond: _PostgreSQL_ | :large_orange_diamond: _MS Excel_ |
-| :large_orange_diamond: _JavaScript_ | :large_orange_diamond: _PHP_ | :large_orange_diamond: _MySQL_ | :large_orange_diamond: _MS Power Point_ |
-| :large_orange_diamond: _TypeScript_ | :large_orange_diamond: _Laravel_ | :large_orange_diamond: _Firebase_ | :large_orange_diamond: _MS Outlook_ |
-| :large_orange_diamond: _Angular_ | :large_orange_diamond: _Python_ | :large_orange_diamond: _SQLite_ | :large_orange_diamond: _Google Docs_ | 
-| :large_orange_diamond: _Sass/LESS_ | |:large_orange_diamond: _MS Access_ | |
+| Frontend | Backend | Database | Ofimatic | Control Systems of V. |
+| ---------| ------- | -------- | -------- | --------------------- |
+| _HTML5_ | _ASP .Net_ | _SQL Server_ | _MS Word_ | _Git_ |
+| _CSS3_ | _.Net Framework_ | _PostgreSQL_ | _MS Excel_ | _Git Station_ |
+| _JavaScript_ | _PHP_ | _MySQL_ | _MS Power Point_ | _TortoiseSVN_ |
+| _TypeScript_ | _Laravel_ | _Firebase_ | _MS Outlook_ |
+| _Angular_ | _Python_ | _SQLite_ | _Google Docs_ | 
+| _Sass/LESS_ | | _MS Access_ | |
