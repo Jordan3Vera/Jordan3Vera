@@ -17,5 +17,5 @@ conocimientos sólidos en:
 | _Sass/LESS_ | | _MS Access_ | |
 
 ## Mis sitios webs
-- [Mi perfil](https://Jordan3Vera.github.io/My-Profile). _Descripción sobre mí_
-- [Proyecto](https://abm-project3.web.app). _Proyecto para interactuar con tablas_
+- [Mi perfil](https://Jordan3Vera.github.io/My-Profile) _Descripción sobre mí_
+- [Proyecto](https://abm-project3.web.app) _Proyecto para interactuar con tablas_
