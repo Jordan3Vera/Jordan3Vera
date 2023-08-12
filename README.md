@@ -15,3 +15,7 @@ conocimientos sólidos en:
 | _TypeScript_ | _Laravel_ | _Firebase_ | _MS Outlook_ |
 | _Angular_ | _Python_ | _SQLite_ | _Google Docs_ | 
 | _Sass/LESS_ | | _MS Access_ | |
+
+## Mis sitios webs
+- [Mi perfil](https://Jordan3Vera.github.io/My-Profile)
+- [Proyecto](https://abm-project3.web.app)
